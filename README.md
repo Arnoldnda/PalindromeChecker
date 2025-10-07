@@ -9,9 +9,9 @@ A simple web app that checks whether a given word or sentence is a **palindrome*
 💡 *A palindrome is a word or sentence that's spelled the same way both forward and backward, ignoring punctuation, case, and spacing.*
 
 Example:
-madam → ✅ palindrome
-racecar → ✅ palindrome
-hello → ❌ not a palindrome
+- madam → ✅ palindrome
+- racecar → ✅ palindrome
+- hello → ❌ not a palindrome
 ---
 
 ### 🛠️ Built With
@@ -39,10 +39,10 @@ To run the project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/<repo-name>.git
+git clone https://github.com/Arnoldnda/PalindromeChecker.git
 
 # Go into the project folder
-cd <repo-name>
+cd PalindromeChecker
 
 # Open index.html in your browser
  ```
