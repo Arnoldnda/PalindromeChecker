@@ -7,13 +7,11 @@ checkButton.addEventListener("click", () => {
 
     if (inputText === "" ) {
         alert("Please input a value");
-    }
-
-   if (isPalimdrome(inputText)) {
-        result.innerText = `${inputText} is a palindrome`; 
-   } else {
+    } else if  (isPalimdrome(inputText)) 
+        result.innerText = `${inputText} is a palindrome`;
+    else {
        result.innerText = `${inputText} is not a palindrome`; 
-   }
+    }
 })
 
 //check if the string is a palindrome
