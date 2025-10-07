@@ -56,6 +56,5 @@ Add unit tests for the palindrome function
 
 ### 🧑‍💻 Author
 
-Berni – Student in Networks and Software Engineering
-📧 ndadesirarnold@gmail.com
-🔗 Arnoldnda
+- Berni – Student in Networks and Software Engineering
+- 📧 ndadesirarnold@gmail.com
